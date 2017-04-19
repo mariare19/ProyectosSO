@@ -1,0 +1,7 @@
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\Mensaje\bin\Debug\Mensaje.dll
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\Mensaje\bin\Debug\Mensaje.pdb
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\Mensaje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\Mensaje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\Mensaje\obj\Debug\Mensaje.csprojResolveAssemblyReference.cache
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\Mensaje\obj\Debug\Mensaje.dll
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\Mensaje\obj\Debug\Mensaje.pdb

@@ -1,0 +1,8 @@
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\bin\Debug\ExamenSO.exe.config
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\bin\Debug\ExamenSO.exe
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\bin\Debug\ExamenSO.pdb
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\bin\Debug\Mensaje.dll
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\bin\Debug\Mensaje.pdb
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\obj\Debug\Cliente-Servidor.csprojResolveAssemblyReference.cache
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\obj\Debug\ExamenSO.exe
+C:\Users\luisantonio\Desktop\Doc 2017\SO\ExamenSO\ExamenSO\obj\Debug\ExamenSO.pdb
